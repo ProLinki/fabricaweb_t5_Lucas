@@ -1,0 +1,137 @@
+2016-02-01 17:49:17,181 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 17:49:19,604 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/main/java
+2016-02-01 17:49:19,608 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/test/java
+2016-02-01 17:49:19,886 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2016-02-01 17:49:21,869 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:49:21,881 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 17:49:21,887 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:49:21,898 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 17:49:50,924 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:49:50,934 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 17:49:50,938 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:49:50,949 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 17:50:46,433 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 17:50:47,100 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:50:47,114 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 17:50:47,120 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 17:50:47,143 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:12:48,023 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:12:50,933 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:12:50,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:12:50,962 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:12:50,979 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:12:51,024 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:12:51,026 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:12:51,097 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:12:58,770 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:13:01,149 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:01,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:13:01,166 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:01,176 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:13:01,176 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:13:01,176 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:13:01,199 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:28,622 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:13:30,732 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:30,755 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:13:30,767 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:30,779 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:13:30,788 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:13:30,789 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:13:30,807 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:40,289 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:13:42,282 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:42,294 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:13:42,299 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:13:42,313 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:13:42,313 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:13:42,314 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:13:42,353 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:18:29,447 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:18:31,924 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:18:31,945 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:18:31,963 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:18:31,978 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:18:31,987 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:18:31,987 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:18:32,013 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:19:24,302 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:19:26,284 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:19:26,297 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:19:26,302 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:19:26,315 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:19:26,316 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:19:26,316 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:19:26,337 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:21:22,399 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-01 18:21:24,151 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:21:26,191 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/main/java
+2016-02-01 18:21:26,224 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/test/java
+2016-02-01 18:21:29,408 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for fabricaweb
+2016-02-01 18:21:29,756 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2016-02-01 18:21:31,660 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:21:31,694 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:21:31,725 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:21:31,747 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:21:31,748 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:21:31,756 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:21:31,799 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:11,237 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-01 18:23:13,094 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:23:15,202 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/main/java
+2016-02-01 18:23:15,204 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/test/java
+2016-02-01 18:23:15,636 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for fabricaweb
+2016-02-01 18:23:15,663 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-02-01 18:23:16,277 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:16,290 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:23:16,305 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:16,318 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:23:16,326 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:23:16,326 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:23:16,339 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:22,376 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb
+2016-02-01 18:23:22,385 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-02-01 18:23:27,188 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:27,208 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:23:27,219 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:23:27,238 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:23:27,240 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:23:27,240 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:23:27,250 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:00,040 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:00,124 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:36:00,129 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:00,151 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:36:18,921 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:18,935 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:36:18,951 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:18,973 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:36:42,580 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:42,621 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:36:42,626 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:36:42,644 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:37:09,857 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:37:09,881 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:37:09,896 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:37:09,910 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:38:52,011 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:38:56,759 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:38:56,775 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:38:56,781 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:38:56,810 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:38:56,819 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:38:56,829 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:38:56,843 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:47:49,979 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-01 18:47:51,704 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.pl.fabricadeprogramador:fabricaweb:1 @ C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\pom.xml.
+2016-02-01 18:47:53,749 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/main/java
+2016-02-01 18:47:53,751 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabricaweb/src/test/java
+2016-02-01 18:47:54,712 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for fabricaweb
+2016-02-01 18:47:54,727 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-02-01 18:47:55,435 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:47:55,490 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\main\resources
+2016-02-01 18:47:55,505 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-01 18:47:55,522 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ProLinki\workspace\workspace_fabrica\fabricaweb\src\test\resources
+2016-02-01 18:47:55,532 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fabricaweb
+2016-02-01 18:47:55,532 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fabricaweb
+2016-02-01 18:47:55,557 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
